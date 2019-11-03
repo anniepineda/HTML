@@ -4,9 +4,6 @@
       <p style = "font-family:optima">
          Hello I want to share 7 great tips I found online for programmers.</p>
         <p style = "font-family:optima">
-           <a target="_blank" href="img_mountains.jpg">
-      <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
-    </a>
            <ul style="list-style-type:none;">
            <li>1. Learn by doing. Always play with the code while learning.</li>
            <li>2. Grasp the fundementals for long-term benefits</li>
