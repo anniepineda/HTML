@@ -14,11 +14,5 @@
         <li>7. Take breaks when debugging.</li> 
          </ul>
 </p>           
-   var person = prompt("Please enter your name", "Harry Potter");
-
-if (person != null) {
-  document.getElementById("demo").innerHTML =
-  "Hello " + person + "! How are you today?";
-}
    </body>
 </html>
