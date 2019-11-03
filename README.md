@@ -13,16 +13,6 @@
         <li>6. Dont just read the sample code. Tinker with it.</li> 
         <li>7. Take breaks when debugging.</li> 
          </ul>
-</p>
-   /* color name */
-h1 {
-  color: DarkCyan;}
-/* hex code */
-h2 {
-  color: #ee3e80;}
-/* rgb value */
-p{
-color: rgb(100,100,90);}
-            
+</p>           
    </body>
 </html>
