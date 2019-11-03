@@ -1,5 +1,6 @@
 <html>
    <body style="background-color:grey;">
+      <h1 style="border:2px solid DodgerBlue;">
       <h1>Tips For Programmers</h1>
       <p style = "font-family:optima">
          Hello I want to share 7 great tips I found online for programmers.</p>
@@ -12,6 +13,7 @@
         <li>5. Seek out online resources.</li>
         <li>6. Dont just read the sample code. Tinker with it.</li> 
         <li>7. Take breaks when debugging.</li> 
+              </h1>
    </ul>
 </p>
             
