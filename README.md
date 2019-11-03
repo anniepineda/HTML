@@ -1,3 +1,3 @@
 # Piggy Unicorns
-<body bgcolor=EA25A6>
+<body bgcolor="#EA25A6">
   
