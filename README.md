@@ -14,5 +14,9 @@
         <li>7. Take breaks when debugging.</li> 
          </ul>
 </p>           
+   markLoop:
+while (theMark === true) {
+   doSomething();
+}
    </body>
 </html>
