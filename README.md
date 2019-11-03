@@ -5,6 +5,8 @@
    </head>
    <body style="background-color:grey;">
       <h1>First Website</h1>
-      <p>We have developed more than 10 products till now.</p>
+      <p style = "font-family:optima">
+This is the first web page I build. 
+</p>
    </body>
 </html>
