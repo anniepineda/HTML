@@ -25,5 +25,4 @@ function* generator() {
   yield 3;
 }
 
-for (let value of generator())
-  console.log( value );
+
