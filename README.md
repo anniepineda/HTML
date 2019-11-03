@@ -2,8 +2,7 @@
    <body style="background-color:grey;">
       {
   margin-left: 200px;
-  background: #5d9ab2 url("img_tree.png") no-repeat top left;
-}
+  background: #5d9ab2 url("img_tree.png") no-repeat;}
       <h1>Tips For Programmers</h1>
       <p style = "font-family:optima">
          Hello I want to share 7 great tips I found online for programmers.</p>
