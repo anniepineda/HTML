@@ -6,7 +6,7 @@
    <head>
       <title>Piggy Unicorns</title>
    </head>
-   <body style="background-color:grey;">
+   <body style="background-color:pink;">
 	</body>
 	
 </html> 
