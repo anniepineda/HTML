@@ -14,5 +14,6 @@
         <li>7. Take breaks when debugging.</li> 
          </ul>
 </p>           
+   confirm("Press a button!");
    </body>
 </html>
