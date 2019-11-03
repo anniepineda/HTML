@@ -1,8 +1,9 @@
-<!DOCTYPE html>
 <html>
    <head>
       <title>HTML Backgorund Color</title>
    </head>
+   
+   
    <body style="background-color:grey;">
       <h1>Tips For Programmers</h1>
       <p style = "font-family:optima">
